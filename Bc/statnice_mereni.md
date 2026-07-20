@@ -5,7 +5,7 @@
 ## 1. Měření změn odporu v biomedicíně můstkovými metodami, Wheatstoneův můstek, měření U/I/R multimetrem, zvětšení rozsahu voltmetru a ampérmetru
 
 ### Wheatstoneův můstek
-- Slouží k přesnému měření odporu **nepřímo**, porovnáním s known odpory.
+- Slouží k přesnému měření odporu **nepřímo**, porovnáním se známými odpory.
 - Zapojení: čtyři odpory R1, Rx, R2 (proměnný), R3 do kosočtverce, do jedné úhlopříčky zdroj, do druhé indikátor (galvanometr/voltmetr).
 - Vyvážení můstku (U mezi C a D = 0) nastane při: **R1·R3 = R2·Rx** (podle značení ve slajdu: poměr ramen).
 - V biomedicíně se používá pro **měření malých změn odporu** (např. tenzometry, snímače tlaku, teploty) – jedno rameno tvoří snímač Rx, ostatní jsou pevné/nastavitelné odpory.
